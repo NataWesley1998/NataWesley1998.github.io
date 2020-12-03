@@ -1,2 +1,2 @@
-# NataWesley1998.github.io
-Meu portifólio
+# NataWesley
+Repositório de atividades de desenvolvimento durante o curso de técnicas de desenvolvimento de .Net
